@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/enara-test/static/css/main.abd64e84.css",
+    "main.js": "/enara-test/static/js/main.ac236415.js",
+    "index.html": "/enara-test/index.html",
+    "main.abd64e84.css.map": "/enara-test/static/css/main.abd64e84.css.map",
+    "main.ac236415.js.map": "/enara-test/static/js/main.ac236415.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.ac236415.js"
+  ]
+}
